@@ -1,12 +1,12 @@
 {
-    "remotePath": "/home4/saiyedas/public_html/registeration & login incomplete/",
+    "remotePath": 
     "host": "dev.fast.sheridanc.on.ca",
-    "username": "saiyedas",
-    "password": "P4u7@PaYxz5",
+    "username": 
+    
     "port": 22,
     "secure": true,
-    "protocol": "sftp",
-    "uploadOnSave": false,
+    "protocol": "
+   
     "passive": false,
     "debug": false,
     "privateKeyPath": null,
